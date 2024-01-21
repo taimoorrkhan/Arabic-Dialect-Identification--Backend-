@@ -1,2 +1,6 @@
-# arabic_dilect_deoplyment
-This repository is use for the deploying Arabic dialect classifier
+# Arabic Dialect Identification (Backend)
+
+## Memories 
+
+
+### 1. Data Collection
